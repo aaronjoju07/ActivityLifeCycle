@@ -1,4 +1,4 @@
-# AndroidLifeCycle Repository
+# AndroidLifeCycle 
 
 Explore the AndroidLifeCycle repository, a simple Android application that logs the lifecycle events using `Log.d` and displays Toast messages on the screen. This repository provides a hands-on example of Android Activity Lifecycle management.
 
