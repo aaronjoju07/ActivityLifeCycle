@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
 5. Toast messages will appear on the screen for each lifecycle event.
    
 ## ScreenShot:
-[Link to My Video](/activitylifecycle.webm)
+[Link to My Video](/activitylifecycle-ezgif.com-video-to-gif-converter.gif)
 
 
 Feel free to customize and extend the code to explore further Android lifecycle management concepts. Share your feedback, report issues, and contribute to enhancing this example! 🚀
